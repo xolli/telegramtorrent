@@ -1,0 +1,2 @@
+libtorrent==2.0.9
+telethon==1.29.3
